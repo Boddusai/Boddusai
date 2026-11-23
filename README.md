@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="./github-banner.png" alt="Boddu Saipavankumar - Python Developer" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Saipavankumar Boddu</h1>
 
 <h3 align="center">Python Developer | Backend Developer | FastAPI Enthusiast</h3>
